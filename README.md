@@ -2,16 +2,14 @@
 
 Create a credit card form. The form should have all the input fields needed to submit a credit card.
 
-<div style="text-align:center;">
-<img src="images/credit_card_form.png" alt="credit card example" width="200"/>
-</div>
+<img style="padding: 10px 0;" src="images/credit_card_form.png" alt="credit card example" width="200"/>
 
 Yours doesn't have to look exactly like this, but should support the same features (shows the amount being charged, has a submit button, has all the fields, etc ...). Make sure to break your components up and reuse as much code as possible. When you hit the submit button display the data entered by a user with `window.alert`.
 
 ## Deliverable
 
 1. Implement all inputs required to submit a credit card.
-2. Add your own custom styles. You can make it similar to the example above, or you can customize your own. Feel free to get creative!
+2. Add your own custom styles. You can make it similar to the example above, or you can customize your own. Be creative!
 3. Use `window.alert` to log what the user has submitted
 
 ## Bonus points (not required, but recommended)
