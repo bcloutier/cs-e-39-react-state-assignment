@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header>Credit Card Form</header>
-      <CreditCardForm />
+      <CreditCardForm price={198} />
     </div>
   );
 }
