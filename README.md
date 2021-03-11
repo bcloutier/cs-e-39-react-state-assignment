@@ -1,8 +1,9 @@
 ## Assignment
 
 Create a credit card form. The form should have all the input fields needed to submit a credit card.
-
-<img style="padding: 10px 0;" src="images/credit_card_form.png" alt="credit card example" width="200"/>
+]<div style="display: flex; justify-content: center; padding: 10px 0;">
+<img src="images/credit_card_form.png" alt="credit card example" width="200"/>
+</div> 
 
 Yours doesn't have to look exactly like this, but should support the same features (shows the amount being charged, has a submit button, has all the fields, etc ...). Make sure to break your components up and reuse as much code as possible. When you hit the submit button display the data entered by a user with `window.alert`.
 
