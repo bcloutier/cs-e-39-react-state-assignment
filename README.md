@@ -1,7 +1,8 @@
 ## Assignment
 
 Create a credit card form. The form should have all the input fields needed to submit a credit card.
-]<div style="display: flex; justify-content: center; padding: 10px 0;">
+
+<div style="display: flex; justify-content: center; padding: 10px 0;">
 <img src="images/credit_card_form.png" alt="credit card example" width="350"/>
 </div> 
 
